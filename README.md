@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/steveo_codes" target="blank"><img src="https://img.shields.io/twitter/follow/steveo_codes?logo=twitter&style=for-the-badge" alt="steveo_codes" /></a> </p>
 
-- 🔭 I’m currently working at **Black Swan Data**
+- 🔭 I’m currently working as an **Analytics Consultant**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
