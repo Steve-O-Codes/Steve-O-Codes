@@ -17,7 +17,7 @@
 
 ### My Learning Path (In Order):
 - Scrimba Front End Career Path
-- Harvard CS50 Web Programming With Python and JS
+- Harvard CS50 Web Programming With Python and JS   👈 <-------- currently here
 - Zero To Mastery: Complete Web & Mobile Designer in 2023: UI/UX, Figma + more
 - Meta Front-End Developer Profesional Certifcate
 - Meta Back-End Developer Professional Certificate
@@ -28,7 +28,7 @@
 - Zero To Mastery: Complete Node Developer
 - Zero To Mastery: Complete SQL and Database Bootcamp
 - Zero To Mastery: AWS Cloud Practicioner
-- Zero To Mastery: AWS Solutions Architect
+- Zero To Mastery: AWS Solutions Architect <-------- wish I was here 😂
 
 
 
