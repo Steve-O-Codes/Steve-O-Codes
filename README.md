@@ -15,9 +15,22 @@
 
 - 📫 How to reach me **steve.gitprofile@outlook.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### My Learning Path (In Order):
+- Scrimba Front End Career Path
+- Harvard CS50 Web Programming With Python and JS
+- Zero To Mastery: Complete Web & Mobile Designer in 2023: UI/UX, Figma + more
+- Meta Front-End Developer Profesional Certifcate
+- Meta Back-End Developer Professional Certificate
+- Zero To Mastery SEO Bootcamp
+- Zero To Mastery: JS The Advanced Conspets
+- Zero To Mastery: The Complete Web Developer Bootcamp
+- Zero To Mastery: Complete Junior To Senior Dev
+- Zero To Mastery: Complete Node Developer
+- Zero To Mastery: Complete SQL and Database Bootcamp
+- Zero To Mastery: AWS Cloud Practicioner
+- Zero To Mastery: AWS Solutions Architect
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
