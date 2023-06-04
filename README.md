@@ -23,7 +23,6 @@
 - Meta Back-End Developer Professional Certificate
 - Zero To Mastery SEO Bootcamp
 - Zero To Mastery: JS The Advanced Concepts
-- Zero To Mastery: The Complete Web Developer Bootcamp
 - Zero To Mastery: Complete Junior To Senior Dev
 - Zero To Mastery: Complete Node Developer
 - Zero To Mastery: Complete SQL and Database Bootcamp
